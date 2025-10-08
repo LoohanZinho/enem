@@ -75,7 +75,7 @@ const sendWelcomeEmail = async (user: Omit<User, 'id' | 'createdAt' | 'updatedAt
           <li><strong>Senha:</strong> ${user.password}</li>
         </ul>
         <p>Você pode acessar a plataforma através do link abaixo:</p>
-        <a href="${loginUrl}" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Acessar Plataforma</a>
+        <a href="https://enem--enempro-25193085-f5db3.us-central1.hosted.app/login" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Acessar Plataforma</a>
         <p>Recomendamos que você altere sua senha no primeiro acesso.</p>
         <br>
         <p>Atenciosamente,</p>
