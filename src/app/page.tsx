@@ -281,7 +281,7 @@ const LandingPage = () => {
                   <div className="relative mb-3">
                     <div className="flex items-baseline justify-center space-x-2">
                       <span className="text-2xl font-bold text-purple-600 dark:text-purple-400 drop-shadow-lg">R$</span>
-                      <span className="text-4xl font-black text-purple-600 dark:text-purple-400 drop-shadow-lg bg-gradient-to-r from-purple-500 to-purple-700 bg-clip-text text-transparent">16,90</span>
+                      <span className="text-4xl font-black text-purple-600 dark:text-purple-400 drop-shadow-lg bg-gradient-to-r from-purple-500 to-purple-700 bg-clip-text text-transparent">16,63</span>
                       <span className="text-lg text-purple-500 dark:text-purple-300 font-semibold drop-shadow-md">/mês</span>
                     </div>
                   </div>
@@ -289,13 +289,13 @@ const LandingPage = () => {
                   <div className="mt-3 bg-gradient-to-r from-purple-500/20 to-pink-500/20 backdrop-blur-sm rounded-xl p-3 border-2 border-purple-400/40 shadow-lg">
                     <div className="flex items-center justify-center space-x-2 mb-2">
                       <span className="text-sm text-purple-400 dark:text-purple-500 line-through font-semibold">R$ 59,70</span>
-                      <span className="bg-purple-500 text-white px-2 py-1 rounded-full text-xs font-black shadow-lg">15% OFF</span>
+                      <span className="bg-purple-500 text-white px-2 py-1 rounded-full text-xs font-black shadow-lg">16% OFF</span>
                     </div>
                     <div className="text-purple-600 dark:text-purple-400 font-black text-sm mb-1">
-                      Economize R$ 9,00
+                      Economize R$ 9,80
                     </div>
                     <div className="text-emerald-600 dark:text-emerald-400 text-xl font-bold">
-                      Total R$ 50,70
+                      Total R$ 49,90
                     </div>
                   </div>
                 </div>
@@ -398,7 +398,7 @@ const LandingPage = () => {
                   <div className="relative mb-4">
                     <div className="flex items-baseline justify-center space-x-2">
                       <span className="text-2xl font-bold text-emerald-600 dark:text-emerald-400 drop-shadow-lg">R$</span>
-                      <span className="text-4xl font-black text-emerald-600 dark:text-emerald-400 drop-shadow-lg bg-gradient-to-r from-emerald-500 to-emerald-700 bg-clip-text text-transparent">14,90</span>
+                      <span className="text-3xl font-black text-emerald-600 dark:text-emerald-400 drop-shadow-lg bg-gradient-to-r from-emerald-500 to-emerald-700 bg-clip-text text-transparent">14,99</span>
                       <span className="text-lg text-emerald-500 dark:text-emerald-300 font-semibold drop-shadow-md">/mês</span>
                     </div>
                     
@@ -409,10 +409,10 @@ const LandingPage = () => {
                         <span className="bg-red-500 text-white px-2 py-1 rounded-full text-xs font-black shadow-lg">25% OFF</span>
                       </div>
                       <div className="text-red-600 dark:text-red-400 font-black text-sm mb-1">
-                        Economize R$ 60,00
+                        Economize R$ 58,90
                       </div>
                       <div className="text-emerald-600 dark:text-emerald-400 text-xl font-bold">
-                        Total R$ 178,80
+                        Total R$ 179,90
                       </div>
                     </div>
                   </div>
